@@ -1,5 +1,7 @@
 # FirstRepo
 # Talha First Repo in github.com
+## 2nd heading
+### 3rd heading
 
 
 **this is bold text**
